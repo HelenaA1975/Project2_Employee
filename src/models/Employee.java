@@ -8,5 +8,6 @@ public class Employee {
 	
 	public Employee(){
 		int a;
+		String name;
 	}
 }
