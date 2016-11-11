@@ -7,6 +7,6 @@ public class Employee {
 	private int birthday;
 	
 	public Employee(){
-		
+		int a;
 	}
 }
